@@ -1,0 +1,288 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.mainpage {
+    width: 400px;
+    height: 200px;
+    padding: 200px;
+    margin: 0 auto;
+    border: 4px;
+    border-style: solid;
+    border-color: gray;
+}
+
+.banner {
+    display: flex;
+    align-items: center;
+    background-color: aqua;
+    width: 780px;
+    height: 200px;
+    padding: 10px;
+    margin-top: -200px;
+    margin-left: -200px;
+}
+
+.description {
+    padding: 15px;
+}
+
+.pfp {
+    width: 100px;
+    height: 100px;
+    border-style: solid;
+    border: 4px;
+    border-color: blue;
+}
+
+.map {
+    width: 20px;
+    height: 30px;
+}
+
+.gear {
+    width: 20px;
+    height: 20px;
+}
+
+.nav {
+    background-color: black;
+    height: 100px;
+    width: 1865px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-title {
+    color: white;
+    margin-left: 400px;
+
+}
+
+.nav-links {
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style-type: none;
+    margin: 400px;
+}
+
+.btn {
+    background-color: cyan;
+    color: white;
+    width: 100px;
+    height: 30px;
+}
+
+.education {
+    width: 400px;
+    height: 20px;
+    padding: 200px;
+    margin: 0 auto;
+    border: 4px;
+    border-style: solid;
+    border-color: gray;
+}
+
+.edubanner {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    width: 780px;
+    height: 100px;
+    padding: 10px;
+    margin-top: -200px;
+    margin-left: -200px;
+}
+
+.education h1 {
+    color: white;
+    margin-left: -150px;
+    margin-top: -80px;
+}
+
+.education h2 {
+    margin-left: -150px;
+    margin-top: 80px;
+}
+
+.education h3 {
+    color: gray;
+    margin-left: -150px;
+    margin-top: 10px;
+}
+
+.education p {
+    margin-left: -150px;
+    margin-top: 10px;
+}
+
+.requests {
+    width: 100px;
+    height: 20px;
+    padding: 200px;
+    margin: 0 auto;
+    margin-top: -1000px;
+    margin-bottom: 50px;
+    margin-right: 0px;
+    border: 4px;
+    border-style: solid;
+    border-color: gray;
+}
+
+.requestsbanner {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    width: 480px;
+    height: 100px;
+    padding: 10px;
+    margin-top: -200px;
+    margin-left: -200px;
+}
+
+.requests h1 {
+    color: white;
+    margin-top: -100px;
+}
+
+.pfpsmall {
+    width: 50px;
+    height: 50px;
+}
+
+#todde {
+    margin-left: 50px;
+    margin-bottom: -200px;
+}
+
+#philk {
+    margin-left: -50px;
+    margin-bottom: -400px;
+}
+
+.connectionName1 {
+    margin-top: 52.5px;
+}
+
+.connectionName2 {
+    margin-top: 75px;
+}
+
+#acceptbtn1 {
+    margin-left: 250px;
+    margin-bottom: -200px;
+}
+
+#declinebtn1 {
+    margin-left: 15px;
+    margin-bottom: -200px;
+}
+
+#acceptbtn2 {
+    margin-left: -115px;
+    margin-bottom: -400px;
+}
+
+#declinebtn2 {
+    margin-left: 15px;
+    margin-bottom: -400px;
+}
+
+.connections {
+        width: 100px;
+        height: 20px;
+        padding: 200px;
+        margin: 0 auto;
+        margin-top: -25px;
+        margin-bottom: 50px;
+        margin-right: 0px;
+        border: 4px;
+        border-style: solid;
+        border-color: gray;
+}
+
+.connectionsBanner {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    width: 480px;
+    height: 100px;
+    padding: 10px;
+    margin-top: -200px;
+    margin-left: -200px;
+}
+
+.connections h1 {
+    color: white;
+    margin-top: -100px;
+}
+
+#adriend {
+    margin-left: 50px;
+    margin-bottom: -200px;
+}
+
+#annej {
+    margin-left: -50px;
+    margin-bottom: -350px;
+}
+
+#alaynet {
+    margin-left: -50px;
+    margin-bottom: -500px;
+}
+
+#arryy {
+    margin-left: -50px;
+    margin-bottom: -650px;
+}
+
+.yourConnectionName1, .yourConnectionName2, .yourConnectionName3, .yourConnectionName4 {
+    white-space: nowrap;
+    margin-top: 50px;
+}
+
+#acceptbtn2-1 {
+    margin-bottom: -120px;
+    margin-left: 250px;
+}
+
+#acceptbtn2-2 {
+    margin-bottom: -200px;
+    margin-left: -50px;
+}
+
+#acceptbtn2-3 {
+    margin-bottom: -275px;
+    margin-left: -115px;
+}
+
+#acceptbtn2-4 {
+    margin-bottom: -345px;
+    margin-left: -115px;
+}
+
+#declinebtn2-1 {
+    margin-bottom: -120px;
+    margin-left: 15px;
+}
+
+#declinebtn2-2 {
+    margin-bottom: -200px;
+    margin-left: -50px;
+}
+
+#declinebtn2-3 {
+    margin-bottom: -275px;
+    margin-left: -50px;
+}
+
+#declinebtn2-4 {
+    margin-bottom: -350px;
+    margin-left: -50px;
+}
